@@ -25,3 +25,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/slnx.sqlite
+/.vs/sonasid-dashboard/CopilotIndices/17.13.433.20974/CodeChunks.db
+/.vs/sonasid-dashboard/CopilotIndices/17.13.433.20974/CodeChunks.db-wal
+/.vs/sonasid-dashboard/CopilotIndices/17.13.433.20974/SemanticSymbols.db
+/.vs/sonasid-dashboard/CopilotIndices/17.13.433.20974/SemanticSymbols.db-wal
+/.vs/sonasid-dashboard/FileContentIndex/08b9e655-c015-441f-8f31-49d2ccda06d3.vsidx
+/.vs/sonasid-dashboard/FileContentIndex/8e895f28-4bd4-4e6f-ae25-b76eebe9b044.vsidx
+/.vs/sonasid-dashboard/FileContentIndex/b1ea6b53-8ae9-4f56-928e-e30a7ae6e86d.vsidx
+/.vs/sonasid-dashboard/FileContentIndex/db76a775-4737-4298-a252-615bc3c8eeb2.vsidx
+*.vsidx
