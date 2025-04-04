@@ -35,3 +35,4 @@ next-env.d.ts
 /.vs/sonasid-dashboard/FileContentIndex/b1ea6b53-8ae9-4f56-928e-e30a7ae6e86d.vsidx
 /.vs/sonasid-dashboard/FileContentIndex/db76a775-4737-4298-a252-615bc3c8eeb2.vsidx
 *.vsidx
+/.vs/slnx.sqlite-journal
